@@ -1,7 +1,7 @@
 let tiempo = 0;
 
 function setup() {
-    createCanvas(windowWidth, windowHeight);
+    createCanvas(1024, 600);
 }
 
 function draw() {
@@ -126,57 +126,6 @@ class Composicion {
         ]);
         let colorFinal = [];
 
-        //switch (color) {
-        //case "azar":
-        //return [
-        //random(255),
-        //random(255),
-        //random(255),
-        //random(100, 150),
-        //];
-        //case "rojos":
-        //return [
-        //random(190, 255),
-        //random(60, 100),
-        //random(60, 100),
-        //random(100, 150),
-        //];
-        //case "verdes":
-        //return [
-        //random(90, 130),
-        //random(190, 255),
-        //random(90, 130),
-        //random(80, 150),
-        //];
-        //case "azules":
-        //return [
-        //random(60, 100),
-        //random(60, 100),
-        //random(190, 255),
-        //random(80, 150),
-        //];
-        //case "violetas":
-        //return [
-        //random(60, 100),
-        //random(30, 55),
-        //random(90, 155),
-        //random(80, 150),
-        //];
-        //case "amarillos":
-        //return [
-        //random(190, 255),
-        //random(190, 255),
-        //random(60, 100),
-        //random(80, 150),
-        //];
-        //case "marrones":
-        //return [
-        //random(90, 120),
-        //random(30, 90),
-        //random(30, 50),
-        //random(80, 150),
-        //];
-        //}
         return [
             floor(random(255)),
             floor(random(255)),
