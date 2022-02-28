@@ -12,7 +12,7 @@ Cada generación es única e irrepetible.
 
 *CABA, Enero 2022*
 
-:white_check_mark: Existencia física = 1
+:white_check_mark: [Originales](https://github.com/juanmiguells/circulos/blob/main/ORIGINAL.md) = 1
 
 ![No soy el mejor fotógrafo](https://raw.githubusercontent.com/juanmiguells/circulos/main/circulos_photo.png)
 
