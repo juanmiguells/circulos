@@ -1,4 +1,4 @@
-# Hay sólo un (1) original.
+# Hay sólo UN (1) original.
 
 ## Datos del Hardware
 
