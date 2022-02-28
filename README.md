@@ -4,7 +4,7 @@
 
 Cada generación es única e irrepetible.
 
-1024x * 600px
+1024px * 600px
 
 ![Una de las posibles generaciones](https://raw.githubusercontent.com/juanmiguells/circulos/main/circulos.png)
 
