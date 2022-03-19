@@ -6,6 +6,5 @@
 - p5js https://p5js.org/
 
 ## Partes 
-- Caja de madera pintada y armada a mano por mi
-- Marco no hecho por mi
+- Caja de madera y marco
 - Cable de tela
